@@ -1,0 +1,302 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.84999999999998,
+          7.849999999999998
+        ]
+      },
+      "properties": {
+        "grid_id": "3_9_9_SE_Asia",
+        "rank": 1,
+        "risk_probability": 0.23168299725274405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.84999999999998,
+          7.550000000000001
+        ]
+      },
+      "properties": {
+        "grid_id": "3_9_8_SE_Asia",
+        "rank": 2,
+        "risk_probability": 0.23168299725274405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.54999999999998,
+          7.550000000000001
+        ]
+      },
+      "properties": {
+        "grid_id": "3_8_8_SE_Asia",
+        "rank": 3,
+        "risk_probability": 0.23168299725274405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.54999999999998,
+          6.949999999999999
+        ]
+      },
+      "properties": {
+        "grid_id": "3_8_6_SE_Asia",
+        "rank": 4,
+        "risk_probability": 0.23168299725274405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.54999999999998,
+          6.649999999999999
+        ]
+      },
+      "properties": {
+        "grid_id": "3_8_5_SE_Asia",
+        "rank": 5,
+        "risk_probability": 0.23168299725274405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.54999999999998,
+          6.35
+        ]
+      },
+      "properties": {
+        "grid_id": "3_8_4_SE_Asia",
+        "rank": 6,
+        "risk_probability": 0.23168299725274405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.54999999999998,
+          5.749999999999999
+        ]
+      },
+      "properties": {
+        "grid_id": "3_8_2_SE_Asia",
+        "rank": 7,
+        "risk_probability": 0.23168299725274405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.54999999999998,
+          5.45
+        ]
+      },
+      "properties": {
+        "grid_id": "3_8_1_SE_Asia",
+        "rank": 8,
+        "risk_probability": 0.23168299725274405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.54999999999998,
+          8.75
+        ]
+      },
+      "properties": {
+        "grid_id": "3_8_12_SE_Asia",
+        "rank": 9,
+        "risk_probability": 0.23168299725274405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.54999999999998,
+          9.049999999999999
+        ]
+      },
+      "properties": {
+        "grid_id": "3_8_13_SE_Asia",
+        "rank": 10,
+        "risk_probability": 0.23168299725274405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.54999999999998,
+          9.349999999999998
+        ]
+      },
+      "properties": {
+        "grid_id": "3_8_14_SE_Asia",
+        "rank": 11,
+        "risk_probability": 0.23168299725274405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.15,
+          -1.650000000000001
+        ]
+      },
+      "properties": {
+        "grid_id": "0_0_4_Serengeti",
+        "rank": 12,
+        "risk_probability": 0.23168299725274405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.15,
+          -1.9500000000000006
+        ]
+      },
+      "properties": {
+        "grid_id": "0_0_3_Serengeti",
+        "rank": 13,
+        "risk_probability": 0.23168299725274405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.15,
+          -2.2500000000000004
+        ]
+      },
+      "properties": {
+        "grid_id": "0_0_2_Serengeti",
+        "rank": 14,
+        "risk_probability": 0.23168299725274405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.15,
+          -2.5500000000000003
+        ]
+      },
+      "properties": {
+        "grid_id": "0_0_1_Serengeti",
+        "rank": 15,
+        "risk_probability": 0.23168299725274405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.84999999999998,
+            7.849999999999998
+          ],
+          [
+            107.84999999999998,
+            7.550000000000001
+          ],
+          [
+            107.54999999999998,
+            7.550000000000001
+          ],
+          [
+            107.54999999999998,
+            6.949999999999999
+          ],
+          [
+            107.54999999999998,
+            6.649999999999999
+          ],
+          [
+            107.54999999999998,
+            6.35
+          ],
+          [
+            107.54999999999998,
+            5.749999999999999
+          ],
+          [
+            107.54999999999998,
+            5.45
+          ],
+          [
+            107.54999999999998,
+            8.75
+          ],
+          [
+            107.54999999999998,
+            9.049999999999999
+          ],
+          [
+            107.54999999999998,
+            9.349999999999998
+          ],
+          [
+            33.15,
+            -1.650000000000001
+          ],
+          [
+            33.15,
+            -1.9500000000000006
+          ],
+          [
+            33.15,
+            -2.2500000000000004
+          ],
+          [
+            33.15,
+            -2.5500000000000003
+          ]
+        ]
+      },
+      "properties": {
+        "type": "patrol_route",
+        "stops": 15
+      }
+    }
+  ]
+}
