@@ -1,0 +1,6 @@
+__pycache__/
+outputs/
+models/
+data/sample/
+*.pyc
+venv/
